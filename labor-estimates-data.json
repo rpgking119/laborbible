@@ -1,0 +1,215 @@
+{
+  "sections": [
+    {
+      "title": "General Services",
+      "items": [
+        {
+          "service": "Overhead",
+          "note": "",
+          "time": "4"
+        },
+        {
+          "service": "Service I-Shift/M-Drive",
+          "note": "",
+          "time": "1"
+        }
+      ]
+    },
+    {
+      "title": "Engine Services",
+      "items": [
+        {
+          "service": "Injector 6 Pack (Cummins)",
+          "note": "",
+          "time": "11"
+        },
+        {
+          "service": "Single Injector (Cummins)",
+          "note": "",
+          "time": "3"
+        },
+        {
+          "service": "Turbo (Volvo/Mack)",
+          "note": "",
+          "time": "4"
+        },
+        {
+          "service": "R&R EGR Cooler",
+          "note": "",
+          "time": "5"
+        },
+        {
+          "service": "Engine Overhaul",
+          "note": "",
+          "time": "48"
+        },
+        {
+          "service": "Head Gasket",
+          "note": "",
+          "time": "28"
+        },
+        {
+          "service": "Upper Timing Cover",
+          "note": "",
+          "time": "5.5"
+        },
+        {
+          "service": "Gear Housing (Cummins Front)",
+          "note": "",
+          "time": "28"
+        },
+        {
+          "service": "Rear Structure/Timing Plate (Volvo/Mack)",
+          "note": "",
+          "time": "45"
+        },
+        {
+          "service": "Engine Swing (Swap)",
+          "note": "lacking equipment",
+          "time": "24-30"
+        },
+        {
+          "service": "D-13 Camshaft",
+          "note": "requires overhead",
+          "time": "14"
+        },
+        {
+          "service": "EPRV Delete",
+          "note": "valve at end of fuel rail",
+          "time": "2.5"
+        },
+        {
+          "service": "Engine Wiring Harness D11 (Volvo/Mack)",
+          "note": "",
+          "time": "14"
+        },
+        {
+          "service": "Engine Wiring Harness D13 (Volvo/Mack)",
+          "note": "",
+          "time": "12"
+        },
+        {
+          "service": "Oil Filter Housing",
+          "note": "",
+          "time": "8"
+        },
+        {
+          "service": "Oil Cooler",
+          "note": "",
+          "time": "12"
+        }
+      ]
+    },
+    {
+      "title": "Transmission & Drivetrain",
+      "items": [
+        {
+          "service": "R&R Transmission",
+          "note": "",
+          "time": "14"
+        },
+        {
+          "service": "Replace Clutch",
+          "note": "",
+          "time": "12-14"
+        },
+        {
+          "service": "Transmission Output Seal",
+          "note": "currently do not have tool",
+          "time": "2.5"
+        },
+        {
+          "service": "I-Shift Clutch, Clutch Cylinder & Counter Shaft Brake",
+          "note": "",
+          "time": "14"
+        },
+        {
+          "service": "Rear End Traditional",
+          "note": "",
+          "time": "5"
+        },
+        {
+          "service": "Rear End Dump Bed",
+          "note": "",
+          "time": "10"
+        }
+      ]
+    },
+    {
+      "title": "Steering & Suspension",
+      "items": [
+        {
+          "service": "King Pins",
+          "note": "",
+          "time": "8-10"
+        },
+        {
+          "service": "Spring Pin Bushings",
+          "note": "",
+          "time": "8-10"
+        },
+        {
+          "service": "Steering Gear Box",
+          "note": "",
+          "time": "3"
+        }
+      ]
+    },
+    {
+      "title": "Brake & Air System",
+      "items": [
+        {
+          "service": "Brakes (per axle)",
+          "note": "",
+          "time": "2"
+        },
+        {
+          "service": "Air Bag",
+          "note": "",
+          "time": "0.5"
+        },
+        {
+          "service": "Brake Chamber (no pancakes)",
+          "note": "",
+          "time": "0.5"
+        },
+        {
+          "service": "Brake Chamber",
+          "note": "with full adjustment",
+          "time": "1"
+        },
+        {
+          "service": "Air Compressor",
+          "note": "",
+          "time": "4"
+        }
+      ]
+    },
+    {
+      "title": "Fuel & Emissions",
+      "items": [
+        {
+          "service": "DPF Filter Cleaning",
+          "note": "$350 fee + 3-4 day turnaround",
+          "time": "5"
+        },
+        {
+          "service": "Tandem Pump",
+          "note": "",
+          "time": "2"
+        },
+        {
+          "service": "Fuel Filter Housing (old version)",
+          "note": "",
+          "time": "2"
+        },
+        {
+          "service": "Fuel Filter Housing (new version)",
+          "note": "",
+          "time": "4"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-02-05T00:00:00.000Z"
+}
