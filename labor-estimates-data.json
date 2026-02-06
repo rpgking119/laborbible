@@ -19,13 +19,8 @@
       "title": "Engine Services",
       "items": [
         {
-          "service": "Injector 6 Pack (Cummins)",
-          "note": "",
-          "time": "11"
-        },
-        {
-          "service": "Single Injector (Cummins)",
-          "note": "",
+          "service": "Single Injector",
+          "note": "Cummins",
           "time": "3"
         },
         {
@@ -221,5 +216,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-06T13:50:49.681Z"
+  "lastUpdated": "2026-02-06T13:51:29.370Z"
 }
