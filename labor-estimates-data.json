@@ -20,7 +20,7 @@
         },
         {
           "service": "Code Scan",
-          "note": "$65/hrsefsef",
+          "note": "$65/hr",
           "time": "1"
         },
         {
@@ -241,5 +241,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-06T19:23:20.120Z"
+  "lastUpdated": "2026-02-06T19:23:33.021Z"
 }
