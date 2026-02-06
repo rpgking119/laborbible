@@ -22,6 +22,11 @@
           "service": "Code Scan",
           "note": "$65/hr",
           "time": "1"
+        },
+        {
+          "service": "D.O.T Inspection",
+          "note": "",
+          "time": "1"
         }
       ]
     },
@@ -231,5 +236,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-06T13:54:38.546Z"
+  "lastUpdated": "2026-02-06T14:02:45.073Z"
 }
