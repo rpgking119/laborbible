@@ -10,7 +10,7 @@
         },
         {
           "service": "PM Service",
-          "note": "69.50 per hr testadadad",
+          "note": "69.50 per hr",
           "time": "2.5"
         },
         {
@@ -241,5 +241,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-06T19:20:59.460Z"
+  "lastUpdated": "2026-02-06T19:22:41.820Z"
 }
