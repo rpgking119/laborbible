@@ -15,7 +15,7 @@
         },
         {
           "service": "Service I-Shift/M-Drive",
-          "note": "",
+          "note": "rwar",
           "time": "1"
         },
         {
@@ -45,8 +45,8 @@
         },
         {
           "service": "Single Injector + Cup",
-          "note": "Volvo/Mack - Includes overhead",
-          "time": "10"
+          "note": "Cummins",
+          "time": "3"
         },
         {
           "service": "Single Injector + Cup",
@@ -241,5 +241,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-06T18:36:06.782Z"
+  "lastUpdated": "2026-02-06T18:36:40.943Z"
 }
